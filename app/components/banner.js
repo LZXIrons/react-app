@@ -7,7 +7,7 @@ export default class banner extends Component {
     return (
         <Swiper autoplay style={styles.wrapper} showsButtons={true}>
         <View style={styles.slide1}>
-          <Text style={styles.text}>Hello Swiper!!</Text>
+          <Text style={styles.text}>Hello Swiper!</Text>
         </View>
         <View style={styles.slide2}>
           <Text style={styles.text}>Beautiful</Text>
